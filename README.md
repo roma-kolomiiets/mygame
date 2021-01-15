@@ -1,0 +1,2 @@
+# mygame
+Just wanna fight

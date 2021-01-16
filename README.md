@@ -1,5 +1,5 @@
 # mygame
-Instalation
+<h>Instalation<h>
 
 npm install
 
